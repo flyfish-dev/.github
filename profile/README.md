@@ -70,6 +70,14 @@
 - Production minded: real business files, large documents, predictable APIs, and self-hosted deployment paths.
 - Clear boundaries: each repository should document its package name, build output, license, and intended integration route.
 
+## Sponsor Flyfish Dev
+
+[Support the organization through GitHub Sponsors](https://github.com/sponsors/flyfish-dev) with a monthly or one-time contribution. Sponsorship sustains real-file compatibility fixes, automated regression tests, documentation, translations and public demos across our projects.
+
+Team and ecosystem sponsors can opt into the acknowledgement described in their tier. Contact **admin@flyfish.dev** to coordinate approved public names, links and logos. Each project retains its own license; commercial licensing and contracted support are arranged separately.
+
+欢迎通过 [GitHub Sponsors](https://github.com/sponsors/flyfish-dev) 支持飞鱼开源工作室，持续改进文件兼容性、回归测试、文档与公共演示。个人、团队及企业均可选择月度或一次性赞助，公开致谢尊重您的意愿。
+
 ## Useful Links
 
 | Resource | URL |
